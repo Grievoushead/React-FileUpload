@@ -1,6 +1,6 @@
 {
-  "name": "react-fileupload",
-  "version": "2.5.1",
+  "name": "react16-fileupload",
+  "version": "3.0.0",
   "description": "Upload files async with xhr2 or iframe for IE. Supporting IE8+. Doing well in Tencent.",
   "main": "dist/main.min.js",
   "scripts": {
@@ -12,6 +12,7 @@
   "keywords": [
     "upload",
     "react",
+    "react16",
     "file",
     "ajax",
     "xhr",
@@ -20,9 +21,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SoAanyip/React-FileUpload.git"
+    "url": "https://github.com/Grievoushead/react16-file-upload.git"
   },
-  "author": "Cheesu@Tencent",
+  "author": "Sergey Kozachenko",
   "license": "MIT",
   "dependencies": {
     "create-react-class": "^15.6.2",
@@ -39,6 +40,6 @@
     "webpack": "^1.12.14"
   },
   "bugs": {
-    "url": "https://github.com/SoAanyip/React-FileUpload/issues"
+    "url": "https://github.com/Grievoushead/react16-file-upload/issues"
   }
 }

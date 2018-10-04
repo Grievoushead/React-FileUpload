@@ -1,4 +1,4 @@
-# React File Upload (React 16) ![npm version](https://badge.fury.io/js/react-fileupload.svg)
+# React File Upload (React 16) ![npm version](https://badge.fury.io/js/react16-fileupload.svg)
 
 A React component of async file uploading, using File API+FormData in modern browser, and form+iframe in IE9-.
 
@@ -48,7 +48,7 @@ Fork of @vladtsf branch [upgrade-react](https://github.com/vladtsf/React-FileUpl
 
 ### Get started ###
 ```
-const FileUpload = require('react-fileupload');
+const FileUpload = require('react16-fileupload');
 ...
 render(){
 	/*set properties*/
@@ -70,7 +70,7 @@ render(){
 ```
 
 ## Download ##
-`npm install react-fileupload --save`
+`npm install react16-fileupload --save`
 
 ## API-EN ##
 
@@ -275,7 +275,7 @@ If you have better and clearer demos, plz tell me! Online or offline.
 simple example:
 
 ```
-const FileUpload = require('react-fileupload');
+const FileUpload = require('react16-fileupload');
 ...
 render(){
 	/*set properties*/
@@ -489,7 +489,7 @@ render() {
 
 简单使用方式：
 ```
-var FileUpload = require('react-fileupload');
+var FileUpload = require('react16-fileupload');
 ...
 render(){
 	/*指定参数*/
@@ -511,7 +511,7 @@ render(){
 ```
 
 ## 下载 ##
-`npm install react-fileupload --save`
+`npm install react16-fileupload --save`
 
 ## API-CN ##
 
@@ -723,7 +723,7 @@ render(){
 
 简单使用方式：
 ```
-var FileUpload = require('react-fileupload');
+var FileUpload = require('react16-fileupload');
 ...
 render(){
 	/*指定参数*/

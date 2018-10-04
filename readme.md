@@ -1,6 +1,8 @@
-# React-FileUpload #
+# React File Upload (React 16) ![npm version](https://badge.fury.io/js/react-fileupload.svg)
 
-![npm version](https://badge.fury.io/js/react-fileupload.svg)
+A React component of async file uploading, using File API+FormData in modern browser, and form+iframe in IE9-.
+
+Fork of @vladtsf branch [upgrade-react](https://github.com/vladtsf/React-FileUpload/tree/vladtsf/upgrade-react) published to NPM.
 
 ## Index ##
 
